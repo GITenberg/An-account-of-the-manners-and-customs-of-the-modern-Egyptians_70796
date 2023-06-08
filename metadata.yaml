@@ -1,0 +1,34 @@
+_repo: An-account-of-the-manners-and-customs-of-the-modern-Egyptians_70796
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lane, Edward William
+    alias: Lane, E. W. (Edward William)
+    birthdate: 1801
+    deathdate: 1876
+    gutenberg_agent_id: '36870'
+    url: http://www.gutenberg.org/2009/agents/36870
+    wikipedia: https://en.wikipedia.org/wiki/Edward_William_Lane
+description: ''
+gutenberg_issued: '2023-05-19'
+identifiers:
+  gutenberg: '70796'
+  lccn: '37023584'
+language: en
+pgterms:marc904: https://archive.org/details/accountofmanners00laneuoft
+pgterms:marc905: 20210226114605lane
+pgterms:marc906: '1890'
+pgterms:marc907: gb
+production_note: Peter Becker, KD Weeks and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive)
+publication_note: '  $aUnited Kingdom :$bWard, Lock and Co. limited, $c1890.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Egypt -- Social life and customs'
+- !lcc 'DT'
+- GITenberg
+title: An account of the manners and customs of the modern Egyptians
+url: http://www.gutenberg.org/ebooks/70796
