@@ -1,5 +1,8 @@
 _repo: An-account-of-the-manners-and-customs-of-the-modern-Egyptians_70796
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70796-h/images/cover.jpg
 creator:
   author:
     agent_name: Lane, Edward William
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/36870
     wikipedia: https://en.wikipedia.org/wiki/Edward_William_Lane
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70796#An-account-of-the-manners-and-customs-of-the-modern-Egyptians
 gutenberg_issued: '2023-05-19'
 identifiers:
   gutenberg: '70796'
